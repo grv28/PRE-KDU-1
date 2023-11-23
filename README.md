@@ -1,1 +1,1 @@
-New repository created as a part of assignment
+new repository as a part of assignment 

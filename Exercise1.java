@@ -1,10 +1,10 @@
 import java.util.Scanner;
 class App {
     public static void main(String [] args)  {
-        Scanner obj1=new Scanner(System.in);
-        String a=obj1.nextLine();
-        Scanner obj2=new Scanner(System.in);
-        String b=obj2.nextLine();
+        Scanner ob1=new Scanner(System.in);
+        String a=ob1.nextLine();
+        Scanner ob2=new Scanner(System.in);
+        String b=ob2.nextLine();
         System.out.println("The length of first string is:"+ a.length());
         
         System.out.println("The length of second string is:"+ b.length());
